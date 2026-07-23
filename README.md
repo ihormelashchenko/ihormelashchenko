@@ -16,7 +16,7 @@ Originally developed as my SETU final-year project, it now continues as a produc
 
 An independently developed iOS personal finance application built with Swift and UIKit. The application provides budgeting and expense-tracking functionality through an evolving MVVM-based architecture.
 
-### [Goose Hub](https://github.com/Navatusein/Goose-Hub)
+### [Goose Hub](https://ihormelashchenko.com/projects/goose-hub/)
 
 A full-stack streaming platform developed by a team of six. My work included backend API development, CRUD workflows, JWT authentication, database integration, and asynchronous messaging.
 
