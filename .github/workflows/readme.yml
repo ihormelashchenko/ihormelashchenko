@@ -29,7 +29,6 @@ jobs:
           args: >-
             --no-progress
             --exclude 'linkedin\.com'
-            --exclude 'showcase\.setu\.ie'
             --accept 200,429
             README.md
           fail: true

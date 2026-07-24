@@ -17,8 +17,7 @@ A full-stack university student platform built as my final-year project at South
 East Technological University (SETU). It combines a SwiftUI iOS app, Go API,
 React administration portal, PostgreSQL, and containerised deployment tooling.
 
-[View the repository](https://github.com/ihormelashchenko/university-app) ·
-[View the SETU showcase](https://showcase.setu.ie/C00290950/index.html)
+[View the repository](https://github.com/ihormelashchenko/university-app)
 
 ### [FinTrack](https://ihormelashchenko.com/projects/fintrack/)
 
